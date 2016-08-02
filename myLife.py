@@ -32,7 +32,7 @@ pet3 = raw_input("Insert pet otion three.")
 petList = [pet1, pet2, pet3]
 
 print("All done!")
-time.sleep(2.0)
+time.sleep(1.0)
 print("calculating your future")
 print("...")
 time.sleep(4.0)
